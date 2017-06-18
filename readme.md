@@ -6,6 +6,11 @@ This is also my attempt to complete the github 30 day commit challenge.  My goal
 
 ideas -
 
-- add a header page
-- create a picture carousel w/ titles and descriptions
-- profile page w/ authentication
+1 - add a header page
+
+2 - create a picture carousel w/ titles and descriptions
+  - photo
+  - descriptions
+  - location to upload photos
+
+3 - profile page w/ authentication
